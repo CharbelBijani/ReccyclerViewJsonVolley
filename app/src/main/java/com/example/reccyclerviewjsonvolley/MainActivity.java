@@ -99,7 +99,8 @@ public class MainActivity extends AppCompatActivity implements AdapterItem.OnIte
         /** 11.2 Ajout de la recherche personalisé **/
 //        search = etSearch.getText().toString().trim();
 
-        String pixabayApiKey = "VOTRE API KEY DEPUIS LE SITE PIXABAY";
+        String pixabayApiKey = "24175925-f2016e765d25a20f1cb0a6989";
+//        String pixabayApiKey = "VOTRE API KEY DEPUIS LE SITE PIXABAY";
 
         // Ouvrir un compte sur Pixabay, pour plus d'informations sur les options qui peuvent être
         // ajoutés voir ici : https://pixabay.com/api/docs/

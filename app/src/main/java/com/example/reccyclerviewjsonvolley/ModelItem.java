@@ -1,6 +1,7 @@
 package com.example.reccyclerviewjsonvolley;
 
-public class ModelItem {
+public class
+ModelItem {
     /**
      * # Ajout des variables pour la création du constructeur, des getters et des setters
      **/
